@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d22dc74-ebdb-4fc1-bb79-6a19f20c2c5a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1djecOJkhOZ5MxAtuqxaQlwApN9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Second class/iris/iris.py" />
+  </component>
+  <component name="RunManager">
+    <configuration name="iris" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="computervision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Second class/iris" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Second class/iris/iris.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d22dc74-ebdb-4fc1-bb79-6a19f20c2c5a" name="Default Changelist" comment="" />
+      <created>1592943007097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592943007097</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="836" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592943144126">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state x="836" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1020@0.27.1920.1020" timestamp="1592943144126" />
+    <state x="1161" y="295" width="424" height="480" key="FileChooserDialogImpl" timestamp="1592943142878">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state x="1161" y="295" width="424" height="480" key="FileChooserDialogImpl/0.27.1920.1020@0.27.1920.1020" timestamp="1592943142878" />
+    <state width="897" height="268" key="GridCell.Tab.0.bottom" timestamp="1592943197326">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state width="897" height="268" key="GridCell.Tab.0.bottom/0.27.1920.1020@0.27.1920.1020" timestamp="1592943197326" />
+    <state width="897" height="268" key="GridCell.Tab.0.center" timestamp="1592943197325">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state width="897" height="268" key="GridCell.Tab.0.center/0.27.1920.1020@0.27.1920.1020" timestamp="1592943197325" />
+    <state width="897" height="268" key="GridCell.Tab.0.left" timestamp="1592943197324">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state width="897" height="268" key="GridCell.Tab.0.left/0.27.1920.1020@0.27.1920.1020" timestamp="1592943197324" />
+    <state width="897" height="268" key="GridCell.Tab.0.right" timestamp="1592943197325">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state width="897" height="268" key="GridCell.Tab.0.right/0.27.1920.1020@0.27.1920.1020" timestamp="1592943197325" />
+  </component>
+</project>
